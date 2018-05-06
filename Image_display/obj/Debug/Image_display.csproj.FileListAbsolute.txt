@@ -1,0 +1,19 @@
+C:\Users\samsonf\source\repos\Image_display\Image_display\bin\Debug\Image_display.exe.config
+C:\Users\samsonf\source\repos\Image_display\Image_display\bin\Debug\Image_display.exe
+C:\Users\samsonf\source\repos\Image_display\Image_display\bin\Debug\Image_display.pdb
+C:\Users\samsonf\source\repos\Image_display\Image_display\obj\Debug\Image_display.csprojResolveAssemblyReference.cache
+C:\Users\samsonf\source\repos\Image_display\Image_display\obj\Debug\Image_display.Form1.resources
+C:\Users\samsonf\source\repos\Image_display\Image_display\obj\Debug\Image_display.Properties.Resources.resources
+C:\Users\samsonf\source\repos\Image_display\Image_display\obj\Debug\Image_display.csproj.GenerateResource.cache
+C:\Users\samsonf\source\repos\Image_display\Image_display\obj\Debug\Image_display.csproj.CoreCompileInputs.cache
+C:\Users\samsonf\source\repos\Image_display\Image_display\obj\Debug\Image_display.exe
+C:\Users\samsonf\source\repos\Image_display\Image_display\obj\Debug\Image_display.pdb
+C:\Users\Samson\Documents\Visual Studio 2017\Projects\Image_display\Image_display\bin\Debug\Image_display.exe.config
+C:\Users\Samson\Documents\Visual Studio 2017\Projects\Image_display\Image_display\bin\Debug\Image_display.exe
+C:\Users\Samson\Documents\Visual Studio 2017\Projects\Image_display\Image_display\bin\Debug\Image_display.pdb
+C:\Users\Samson\Documents\Visual Studio 2017\Projects\Image_display\Image_display\obj\Debug\Image_display.csprojResolveAssemblyReference.cache
+C:\Users\Samson\Documents\Visual Studio 2017\Projects\Image_display\Image_display\obj\Debug\Image_display.Form1.resources
+C:\Users\Samson\Documents\Visual Studio 2017\Projects\Image_display\Image_display\obj\Debug\Image_display.Properties.Resources.resources
+C:\Users\Samson\Documents\Visual Studio 2017\Projects\Image_display\Image_display\obj\Debug\Image_display.csproj.GenerateResource.Cache
+C:\Users\Samson\Documents\Visual Studio 2017\Projects\Image_display\Image_display\obj\Debug\Image_display.exe
+C:\Users\Samson\Documents\Visual Studio 2017\Projects\Image_display\Image_display\obj\Debug\Image_display.pdb
